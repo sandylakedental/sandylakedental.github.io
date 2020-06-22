@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "sandylakedental",
+    "description": "",
+    "home_page_url": "https://sandylakedental.github.io/sandylakedental.github.io",
+    "feed_url": "https://sandylakedental.github.io/sandylakedental.github.io/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Uday"
+    },
+    "items": [
+        {
+            "id": "https://sandylakedental.github.io/sandylakedental.github.io/hi.html",
+            "url": "https://sandylakedental.github.io/sandylakedental.github.io/hi.html",
+            "title": "Hi",
+            "summary": "Yellow",
+            "content_html": "<p>Yellow</p>\n",
+            "author": {
+                "name": "Uday"
+            },
+            "tags": [
+            ],
+            "date_published": "2020-06-22T16:19:15-04:00",
+            "date_modified": "2020-06-22T16:19:15-04:00"
+        }
+    ]
+}

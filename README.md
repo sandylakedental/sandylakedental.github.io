@@ -1,1 +1,0 @@
-# sandylakedental.github.io

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>sandylakedental</title>
+    <link href="https://sandylakedental.github.io/sandylakedental.github.io/feed.xml" rel="self" />
+    <link href="https://sandylakedental.github.io/sandylakedental.github.io" />
+    <updated>1969-12-31T19:00:00-05:00</updated>
+    <author>
+        <name>Uday</name>
+    </author>
+    <id>https://sandylakedental.github.io/sandylakedental.github.io</id>
+
+    <entry>
+        <title>Hi</title>
+        <author>
+            <name>Uday</name>
+        </author>
+        <link href="https://sandylakedental.github.io/sandylakedental.github.io/hi.html"/>
+        <id>https://sandylakedental.github.io/sandylakedental.github.io/hi.html</id>
+
+        <updated>2020-06-22T16:19:15-04:00</updated>
+            <summary>
+                <![CDATA[
+                    Yellow
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Yellow</p>
+
+            ]]>
+        </content>
+    </entry>
+</feed>
