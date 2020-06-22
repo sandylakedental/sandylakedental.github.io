@@ -1,14 +1,42 @@
 {
     "version": "https://jsonfeed.org/version/1",
-    "title": "sandylakedental",
+    "title": "Sandy Lake Dental",
     "description": "",
     "home_page_url": "https://chandandentistry.com",
     "feed_url": "https://chandandentistry.com/feed.json",
     "user_comment": "",
     "author": {
-        "name": "Uday"
+        "name": "Dr. Deveshi Chandan"
     },
     "items": [
+        {
+            "id": "https://chandandentistry.com/about.html",
+            "url": "https://chandandentistry.com/about.html",
+            "title": "About",
+            "summary": " Charlton Dental Associates is proud to serve Sandy Lake &amp; Meadville,&hellip;",
+            "content_html": "\n  <p>\n    Charlton Dental Associates is proud to serve Sandy Lake &amp; Meadville, PA and surrounding areas. We are dedicated to providing the highest level of dental medicine along with friendly, compassionate service.\n<br>\n<br>If you have any questions about how we can care for your teeth &amp; mouth, please don’t hesitate to call us at (724) 376-7161 (Sandy Lake Office) or (814) 724-6890 (Meadville Office).\n  </p>\n<hr class=\"separator separator--dots\" />\n\n  <p>\n    \n  </p>",
+            "author": {
+                "name": "Dr. Deveshi Chandan"
+            },
+            "tags": [
+            ],
+            "date_published": "2020-06-22T18:33:41-04:00",
+            "date_modified": "2020-06-22T18:33:41-04:00"
+        },
+        {
+            "id": "https://chandandentistry.com/sandy-lake-dental.html",
+            "url": "https://chandandentistry.com/sandy-lake-dental.html",
+            "title": "Sandy Lake Dental",
+            "summary": " Wow look at all these happy poeple with smiles! dont you&hellip;",
+            "content_html": "\n    <figure class=\"post__image post__image--center\">\n      <img loading=\"lazy\" src=\"https://chandandentistry.com/media/posts/2/happy.jpg\" sizes=\"(max-width: 1024px) 100vw, 1024px\" srcset=\"https://chandandentistry.com/media/posts/2/responsive/happy-xs.jpg 300w ,https://chandandentistry.com/media/posts/2/responsive/happy-sm.jpg 480w ,https://chandandentistry.com/media/posts/2/responsive/happy-md.jpg 768w ,https://chandandentistry.com/media/posts/2/responsive/happy-lg.jpg 1024w\"  height=\"942\" width=\"1200\" alt=\"\" />\n      \n    </figure>\n\n  <p>\n    Wow look at all these happy poeple with smiles! dont you want to smile and be happy??!?!?!\n  </p>\n\n    <figure class=\"blockquote\">\n      <blockquote>WOwo I was so happy because I can smile</blockquote>\n      <figcaption>Smiling Lady</figcaption>\n    </figure>\n<div><div class=\"post__iframe\"><iframe loading=\"lazy\" src=\"https://docs.google.com/forms/d/e/1FAIpQLSeybonNnqsOsPM3g4sVAXb0eIXhvkd6TYJq5x_ME47LoqAkUQ/viewform?embedded=true\" width=\"640\" height=\"894\" frameborder=\"0\" marginheight=\"0\" marginwidth=\"0\">Loading…</iframe></div></div>\n\n  <p>\n    \n  </p>",
+            "author": {
+                "name": "Dr. Deveshi Chandan"
+            },
+            "tags": [
+            ],
+            "date_published": "2020-06-22T18:33:41-04:00",
+            "date_modified": "2020-06-22T18:33:41-04:00"
+        },
         {
             "id": "https://chandandentistry.com/hi.html",
             "url": "https://chandandentistry.com/hi.html",
@@ -16,12 +44,12 @@
             "summary": "Yellow",
             "content_html": "<p>Yellow</p>\n",
             "author": {
-                "name": "Uday"
+                "name": "Dr. Deveshi Chandan"
             },
             "tags": [
             ],
-            "date_published": "2020-06-22T17:03:31-04:00",
-            "date_modified": "2020-06-22T17:03:31-04:00"
+            "date_published": "2020-06-22T18:33:41-04:00",
+            "date_modified": "2020-06-22T18:33:41-04:00"
         }
     ]
 }

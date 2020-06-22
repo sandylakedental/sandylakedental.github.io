@@ -1,23 +1,91 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <title>sandylakedental</title>
+    <title>Sandy Lake Dental</title>
     <link href="https://chandandentistry.com/feed.xml" rel="self" />
     <link href="https://chandandentistry.com" />
     <updated>1969-12-31T19:00:00-05:00</updated>
     <author>
-        <name>Uday</name>
+        <name>Dr. Deveshi Chandan</name>
     </author>
     <id>https://chandandentistry.com</id>
 
     <entry>
+        <title>About</title>
+        <author>
+            <name>Dr. Deveshi Chandan</name>
+        </author>
+        <link href="https://chandandentistry.com/about.html"/>
+        <id>https://chandandentistry.com/about.html</id>
+
+        <updated>2020-06-22T18:33:41-04:00</updated>
+            <summary>
+                <![CDATA[
+                     Charlton Dental Associates is proud to serve Sandy Lake &amp; Meadville,&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                
+  <p>
+    Charlton Dental Associates is proud to serve Sandy Lake &amp; Meadville, PA and surrounding areas. We are dedicated to providing the highest level of dental medicine along with friendly, compassionate service.
+<br>
+<br>If you have any questions about how we can care for your teeth &amp; mouth, please don’t hesitate to call us at (724) 376-7161 (Sandy Lake Office) or (814) 724-6890 (Meadville Office).
+  </p>
+<hr class="separator separator--dots" />
+
+  <p>
+    
+  </p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Sandy Lake Dental</title>
+        <author>
+            <name>Dr. Deveshi Chandan</name>
+        </author>
+        <link href="https://chandandentistry.com/sandy-lake-dental.html"/>
+        <id>https://chandandentistry.com/sandy-lake-dental.html</id>
+
+        <updated>2020-06-22T18:33:41-04:00</updated>
+            <summary>
+                <![CDATA[
+                     Wow look at all these happy poeple with smiles! dont you&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                
+    <figure class="post__image post__image--center">
+      <img loading="lazy" src="https://chandandentistry.com/media/posts/2/happy.jpg" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://chandandentistry.com/media/posts/2/responsive/happy-xs.jpg 300w ,https://chandandentistry.com/media/posts/2/responsive/happy-sm.jpg 480w ,https://chandandentistry.com/media/posts/2/responsive/happy-md.jpg 768w ,https://chandandentistry.com/media/posts/2/responsive/happy-lg.jpg 1024w"  height="942" width="1200" alt="" />
+      
+    </figure>
+
+  <p>
+    Wow look at all these happy poeple with smiles! dont you want to smile and be happy??!?!?!
+  </p>
+
+    <figure class="blockquote">
+      <blockquote>WOwo I was so happy because I can smile</blockquote>
+      <figcaption>Smiling Lady</figcaption>
+    </figure>
+<div><div class="post__iframe"><iframe loading="lazy" src="https://docs.google.com/forms/d/e/1FAIpQLSeybonNnqsOsPM3g4sVAXb0eIXhvkd6TYJq5x_ME47LoqAkUQ/viewform?embedded=true" width="640" height="894" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe></div></div>
+
+  <p>
+    
+  </p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
         <title>Hi</title>
         <author>
-            <name>Uday</name>
+            <name>Dr. Deveshi Chandan</name>
         </author>
         <link href="https://chandandentistry.com/hi.html"/>
         <id>https://chandandentistry.com/hi.html</id>
 
-        <updated>2020-06-22T17:03:31-04:00</updated>
+        <updated>2020-06-22T18:33:41-04:00</updated>
             <summary>
                 <![CDATA[
                     Yellow
