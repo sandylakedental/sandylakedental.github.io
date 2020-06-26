@@ -11,6 +11,48 @@
     },
     "items": [
         {
+            "id": "https://chandandentistry.com/specials/",
+            "url": "https://chandandentistry.com/specials/",
+            "title": "Specials",
+            "summary": "Here at Charlton Dental Associates, we truly value our patients. It is&hellip;",
+            "content_html": "<p>Here at Charlton Dental Associates, we truly value our patients. It is our goal to give our patients the very best dental care possible. We also know that there are a lot of choices out there, so we are glad that you continue to be one of our valued patients. We are dedicated to treating you the way you deserve to be treated, while giving you a smile of which you can be proud.</p>\n<p>As a way to say thank you for all that you do, we offer specials that will help you get the care you deserve while also saving on our services and products. Be sure to stop back here often to see our specials!</p>\n<p>There are two ways to take advantage of our specials. You can either print a copy of the special or show it to us on your phone. However, it is really important to be aware of the expiration date because we are constantly changing our specials.</p>\n<p>Again, our entire staff at Charlton Dental Associates wants to thank you for being a loyal patient. We are grateful that you continue to come to us for all of your dental needs. For this reason, we are proud to offer these specials to help you get the smile you deserve.</p>\n<p>Here at Charlton Dental Associates, we truly value our patients. It is our goal to give our patients the very best dental care possible. We also know that there are a lot of choices out there, so we are glad that you continue to be one of our valued patients. We are dedicated to treating you the way you deserve to be treated, while giving you a smile of which you can be proud.</p>\n<p>As a way to say thank you for all that you do, we offer specials that will help you get the care you deserve while also saving on our services and products. Be sure to stop back here often to see our specials!</p>\n<p>There are two ways to take advantage of our specials. You can either print a copy of the special or show it to us on your phone. However, it is really important to be aware of the expiration date because we are constantly changing our specials.</p>\n<p>Again, our entire staff at Charlton Dental Associates wants to thank you for being a loyal patient. We are grateful that you continue to come to us for all of your dental needs. For this reason, we are proud to offer these specials to help you get the smile you deserve.</p>\n<p>                                      <img loading=\"lazy\" src=\"https://sandylakedental.com/wp-content/uploads/2016/11/dental-00-300x200.jpg\" data-is-external-image=\"true\" ></p>",
+            "author": {
+                "name": "Dr. Deveshi Chandan"
+            },
+            "tags": [
+            ],
+            "date_published": "2020-06-26T01:47:07-04:00",
+            "date_modified": "2020-06-26T01:47:07-04:00"
+        },
+        {
+            "id": "https://chandandentistry.com/insurance/",
+            "url": "https://chandandentistry.com/insurance/",
+            "title": "Insurance",
+            "summary": "Here at Charlton Dental Associates, we are proud to accept most types&hellip;",
+            "content_html": "<p>Here at Charlton Dental Associates, we are proud to accept most types of dental insurance.</p>\n<p>It is our goal to help every patient have a healthy smile that they are proud of. We work hard to educate our patients on good dental health. We also are proud to offer many different procedures so that our patients can have beautiful smiles that they love.</p>\n<p>We also know and understand how expensive dental procedures can be. For this reason, we are proud to accept most types of dental insurance. We don’t want cost to defer you from having the smile that you deserve.</p>\n<p>Dental insurances vary in their coverage. We will work with you to understand your insurance, allowing us to get your mouth back to optimal health.</p>\n<p>If you are looking for insurance, we can help you choose the plan that will best suit your needs. Don’t hesitate to contact us if you have any questions about dental insurance.</p>\n<p>                                         <img loading=\"lazy\" src=\"https://sandylakedental.com/wp-content/uploads/2017/11/businessman1_1000-300x200.jpg\" data-is-external-image=\"true\" ></p>\n<p> </p>",
+            "author": {
+                "name": "Dr. Deveshi Chandan"
+            },
+            "tags": [
+            ],
+            "date_published": "2020-06-26T01:47:07-04:00",
+            "date_modified": "2020-06-26T01:47:07-04:00"
+        },
+        {
+            "id": "https://chandandentistry.com/new-patients/",
+            "url": "https://chandandentistry.com/new-patients/",
+            "title": "New Patients",
+            "summary": "We understand that your first visit to the dentist can feel overwhelming&hellip;",
+            "content_html": "<p>We understand that your first visit to the dentist can feel overwhelming and we try to accommodate all new patients with a comfortable and organized facility.</p>\n<p>Our staff has taken the steps to prepare you for the first appointment by providing a full spectrum of the services we offer and the option to complete our new patient form prior to your visit. Our goal is to cover everything you need with a full and efficient assessment, but without waiting to see the doctor.</p>\n<p>                                    <img loading=\"lazy\" style=\"color: var(--text-editor-body-color); font-family: var(--font-base); font-size: inherit; font-weight: var(--font-weight-normal);\" src=\"https://sandylakedental.com/wp-content/uploads/2016/11/dental-24-300x225.jpg\" data-is-external-image=\"true\" ></p>",
+            "author": {
+                "name": "Dr. Deveshi Chandan"
+            },
+            "tags": [
+            ],
+            "date_published": "2020-06-26T01:47:07-04:00",
+            "date_modified": "2020-06-26T01:47:07-04:00"
+        },
+        {
             "id": "https://chandandentistry.com/see-us-on/",
             "url": "https://chandandentistry.com/see-us-on/",
             "title": "Share Like and Follow",
@@ -21,8 +63,8 @@
             },
             "tags": [
             ],
-            "date_published": "2020-06-26T01:09:34-04:00",
-            "date_modified": "2020-06-26T01:09:34-04:00"
+            "date_published": "2020-06-26T01:47:07-04:00",
+            "date_modified": "2020-06-26T01:47:07-04:00"
         },
         {
             "id": "https://chandandentistry.com/testimonials/",
@@ -35,8 +77,8 @@
             },
             "tags": [
             ],
-            "date_published": "2020-06-26T01:09:34-04:00",
-            "date_modified": "2020-06-26T01:09:34-04:00"
+            "date_published": "2020-06-26T01:47:07-04:00",
+            "date_modified": "2020-06-26T01:47:07-04:00"
         },
         {
             "id": "https://chandandentistry.com/about-the-dentists/",
@@ -49,8 +91,8 @@
             },
             "tags": [
             ],
-            "date_published": "2020-06-26T01:09:34-04:00",
-            "date_modified": "2020-06-26T01:09:34-04:00"
+            "date_published": "2020-06-26T01:47:07-04:00",
+            "date_modified": "2020-06-26T01:47:07-04:00"
         },
         {
             "id": "https://chandandentistry.com/about/",
@@ -63,8 +105,8 @@
             },
             "tags": [
             ],
-            "date_published": "2020-06-26T01:09:34-04:00",
-            "date_modified": "2020-06-26T01:09:34-04:00"
+            "date_published": "2020-06-26T01:47:07-04:00",
+            "date_modified": "2020-06-26T01:47:07-04:00"
         }
     ]
 }
